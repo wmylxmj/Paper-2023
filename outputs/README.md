@@ -1,1 +1,1 @@
-Experiment pictures can be saved here.
+Experiment figures can be saved here.
